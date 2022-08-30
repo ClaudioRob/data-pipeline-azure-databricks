@@ -19,9 +19,17 @@
 
 ## Development
 
-- Environment Setup;
+- Environment Setup
 - Building Data Lake on Azure
 - Data Ingestion on Azure
 - Data Processing on Azure
 - Pipeline Deployment on Azure
+
 ![pipeline](https://user-images.githubusercontent.com/44467803/187320687-ac91f4ec-d758-4e0b-b49a-aa694c2baf43.jpg)
+
+$$ Links
+
+- Project presentation
+- Kaggle Database
+- SQL Server Download
+- Scope Creation Documentation
