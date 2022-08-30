@@ -1,4 +1,4 @@
-## In this project we develop data pipelines with Microsoft's Cloud Azure, Databricks Notebooks and Microsoft SQL Server Management Studio 18.
+## In this project we develop data pipelines with Microsoft's Cloud Azure, Databricks Notebooks and Microsoft SQL Server Management Studio 15.
 
 ## Resources Used:
 1. Azure Databricks Service
@@ -27,9 +27,9 @@
 
 ![pipeline](https://user-images.githubusercontent.com/44467803/187320687-ac91f4ec-d758-4e0b-b49a-aa694c2baf43.jpg)
 
-$$ Links
+## Links
 
-- Project presentation
-- Kaggle Database
-- SQL Server Download
-- Scope Creation Documentation
+- Project presentation: https://docs.google.com/presentation/d/1tKfNL2NFjAMLwW5Zsr_BdE7Ds4xYbbxtJDAXSxWPUJc/edit?usp=sharing
+- Kaggle Database: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download
+- SQL Server Download: https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
+- Scope Creation Documentation: https://docs.microsoft.com/pt-br/azure/databricks/security/secrets/secret-scopes
