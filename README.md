@@ -1,4 +1,4 @@
-# In this course we cover how to create data pipelines with Microsoft's Azure Cloud.
+# In this project we develop data pipelines with Microsoft's Cloud Azure, Databricks Notebooks and Microsoft SQL Server Management Studio 18.
 
 ## Resources Used:
 1. Azure Databricks Service
