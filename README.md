@@ -1,6 +1,6 @@
-### In this course we cover how to create data pipelines with Microsoft's Azure Cloud.
+# In this course we cover how to create data pipelines with Microsoft's Azure Cloud.
 
-# All resources used:
+## Resources Used:
 1. Azure Databricks Service
 2. Data factory (V2)
 3. Managed Identity
