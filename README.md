@@ -1,4 +1,4 @@
-# data-pipeline-azure-databricks
+### In this course we cover how to create data pipelines with Microsoft's Azure Cloud.
 
 # All resources used:
 1. Azure Databricks Service
